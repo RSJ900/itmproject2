@@ -1,3 +1,14 @@
+/* style 1*/
+body {
+  background-color: black;
+  color: black;
+}
+/* style 2*/
+div {
+  background-color: lightblue;
+}
+
+
 header nav > ul {
   list-style-type: none;
   margin: 0;
