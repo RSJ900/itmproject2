@@ -21,3 +21,20 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #111111;
 }
+/* style 1*/
+div {
+  width: 50%;
+  background-color: powderblue;
+}
+/* style 2*/
+h1 {
+  font-size: 4em; /* 4 * 16 = 64px */
+}
+/* style 3*/
+h2 {
+  font-size: 2.5em; /* 2.5 * 16 = 40px */
+}
+/* style 4*/
+p {
+  font-size: 3 em; /* 3 * 16 = 48px */
+}
