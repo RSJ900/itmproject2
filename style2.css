@@ -37,3 +37,20 @@ ul {
   list-style-type: lower-roman;
 }
 /* style 4*/
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+/* style 5*/
+div {
+  background-color: yellow;
+}
+/* style 6*/
+div {
+  width: 300px;
+  border: 15px solid rgb(0, 113, 128);
+  padding: 50px;
+  margin: 20px;
+}
