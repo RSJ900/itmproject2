@@ -1,11 +1,35 @@
 /* style 1*/
 body {
-  background-color: black;
-  color: black;
+  background-color: lightblue;
+  color: white;
 }
 /* style 2*/
 div {
-  background-color: lightblue;
+  background-color: black;
+}
+/* style 3*/
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+/* style 4*/
+p {
+  border: 1px solid white;
+  padding: 5px;
+}
+/* style 5*/
+body > div:nth-of-type(1) {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+
+body > div:nth-of-type(2) {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
 }
 
 header nav > ul {
